@@ -194,7 +194,7 @@ tags
 *.pyc
 *.pyo
 *.pyd
-notes*md
+# notes*md
 
 # Jupyter
 .ipynb_checkpoints/
